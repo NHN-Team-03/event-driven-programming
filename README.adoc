@@ -2,3 +2,13 @@
 
 == 📚
 교재 : https://nhnacademy.dooray.com/share/pages/K6B331AXQduJ3J0V24kJGg[NHN Dooray] 
+
+=== 🐵 MEMBER
+[cols="1,1,1,1,1"]
+|===
+|link:jaehun[장재훈]
+|link:seungjo[정승조]
+|link:damho[이담호]
+|link:jeongwoo[이정우]
+|link:yongjun[유용준]
+|===
